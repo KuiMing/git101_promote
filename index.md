@@ -94,6 +94,14 @@ knit        : slidify::knit2slides
 
 ## 拿來報名Git 101吧！
 
+--- .segue .dark
+
+## 時間：2016/03/05、03/12、03/19
+
+--- .segue .dark
+
+## 地點：淡江大學台北校區
+
 --- &vcenter .largement
 
 ## 報名網站
