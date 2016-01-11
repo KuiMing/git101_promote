@@ -1,7 +1,7 @@
 ---
-title       : Git 101
-subtitle    : Git & Git Workflow
-author      : Ben
+title       : 
+subtitle    : 
+author      : 
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js
@@ -10,11 +10,25 @@ widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---  
-<img src='assets/img/banner.jpg' width=950 align='center'></img>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+## 木刻思
+<br>
+<br>
+## GIT 101（201603）
 
 --- .segue .dark
 
-## 2012 COSCUP
+## 2013 MLDM Monday
 
 --- .segue .dark
 
@@ -60,11 +74,20 @@ knit        : slidify::knit2slides
 
 ## 所以重金禮聘了強者
 
---- &vcenter .largecontent
+--- &twocol .largecontent
 
 ## 朱鴻宇(Casear Chu)
 
+*** =left
 <img src='assets/img/卡爺.jpeg'></img>
+
+*** =right
+
+## 強者的經歷
+
+### - 曾於Microsoft與TrendMicro任職
+### - 2012 獲得Node.js Knockout 台灣區第一名
+### - 於JSDC 2014、2015擔任講師
 
 --- .segue .dark
 
@@ -77,30 +100,6 @@ knit        : slidify::knit2slides
 --- .segue .dark
 
 ## 陣法篇- 圍攻光明頂
-
---- .segue .dark
-
-## 紅包錢
-
---- .segue .dark
-
-## 打麻將贏來的錢
-
---- .segue .dark
-
-## 大樂透、威力彩、大福彩的彩金
-
---- .segue .dark
-
-## 拿來報名Git 101吧！
-
---- .segue .dark
-
-## 時間：2016/03/05、03/12、03/19
-
---- .segue .dark
-
-## 地點：淡江大學台北校區
 
 --- &vcenter .largement
 
